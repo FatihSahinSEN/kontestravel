@@ -221,7 +221,7 @@ function mobileMenu() {
         ShowMenu.style.opacity = 1;
         ShowMenu.style.left = 0;
 
-        menuImg.src = "https://turkeytravel.com/assets/images/temp/close.svg"
+        menuImg.src = "https://kontestravel.pages.dev/assets/images/temp/close.svg"
     }else{
         menuStatus = false;
 
@@ -236,7 +236,7 @@ function mobileMenu() {
         ShowMenu.style.opacity = 0;
         ShowMenu.style.left = -11111110;
 
-        menuImg.src = "https://turkeytravel.com/assets/images/temp/menu.svg"
+        menuImg.src = "https://kontestravel.pages.dev/assets/images/temp/menu.svg"
     }
 }
 

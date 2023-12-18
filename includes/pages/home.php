@@ -3,7 +3,7 @@ defined('_GUVENLIK') or die("Redistrect Access");
 ?>
 <div class="container">
 <section class="home">
- <div class="homeImage"><img src="https://turkeytravel.com/assets/images/homeimg.jpg" alt="Turkey Travel"></div>
+ <div class="homeImage"><img src="https://kontestravel.pages.dev/assets/images/homeimg.jpg" alt="Turkey Travel"></div>
 <article>
     <?php
     if($SelectLang['code']=='en') { ?>

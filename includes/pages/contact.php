@@ -289,7 +289,7 @@ defined('_GUVENLIK') or die("Redistrect Access");
         </div>
         <div class="contact-info" style="margin: 1em">
             <div class="contact-img">
-                <img src="https://turkeytravel.com/assets/images/contact/contact.jpg" alt="">
+                <img src="https://kontestravel.pages.dev/assets/images/contact/contact.jpg" alt="">
             </div>
 
         </div>
