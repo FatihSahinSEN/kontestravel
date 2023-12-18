@@ -1935,7 +1935,7 @@ nav > ul > .active > a:after {
     font-size:3.5em;
     font-weight: 800;
     line-height: 1;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.2px;
     font-family: "Montserrat";
 
 }
