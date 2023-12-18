@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /turkeytravel
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([-\/da-z0-9]+)?$ index.php?lang=$1 [L]
