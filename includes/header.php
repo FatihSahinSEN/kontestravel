@@ -43,7 +43,7 @@ defined('_GUVENLIK') or die("Redistrect Access");
         </div>
         <a href="<?php echo $lang["SITE_URL"].$SelectLang['code'];?>/">
             <div class="logo" id="logo">
-                <img src="assets/images/logo.svg"  alt="Mexico Turqia Tours" class="brand">
+                <img src="assets/images/logo3.png"  alt="Mexico Turqia Tours" class="brand">
             </div>
         </a>
     <div class="mobilDil">
